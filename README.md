@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Larissapaixao9
 - 👀 I’m interested in programming and aerospace science and technology
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, Javascript and React
 
 
 <!---
