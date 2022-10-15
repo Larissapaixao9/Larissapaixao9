@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Larissa Paixão</h1>
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+<a href="https://wakatime.com/@e9257f7b-904e-4f94-86d1-1534e90fbdb9"><img src="https://wakatime.com/badge/user/e9257f7b-904e-4f94-86d1-1534e90fbdb9.svg" alt="Total time coded since Mar 23 2022" /></a>
 
 <h3 align="center">Full stack and Aerospace student</h3>
 
