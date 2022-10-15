@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Larissa Paixão</h1>
-[![wakatime](https://wakatime.com/badge/user/e9257f7b-904e-4f94-86d1-1534e90fbdb9.svg)](https://wakatime.com/@e9257f7b-904e-4f94-86d1-1534e90fbdb9)
 <h3 align="center">Full stack and Aerospace student</h3>
-
+[![wakatime](https://wakatime.com/badge/user/e9257f7b-904e-4f94-86d1-1534e90fbdb9.svg)](https://wakatime.com/@e9257f7b-904e-4f94-86d1-1534e90fbdb9)
 - 🔭 I’m currently working on **TYpescript, node js and React js**
 
 - 🌱 I’m currently learning **AWS, CI/CD and docker**
