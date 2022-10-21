@@ -4,7 +4,7 @@
 
 <h3 align="center">Full stack and Aerospace student</h3>
 
-- 🔭 I’m currently working on **TYpescript, node js and React js**
+- 🔭 I’m currently working on **Typescript, node js and React js**
 
 - 🌱 I’m currently learning **AWS, CI/CD and docker**
 
