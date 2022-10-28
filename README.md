@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react, nodejs and javascript**
 
-- 📫 How to reach me **laryssapaixao9@gmail.com**
+- 📫 How to reach me **laryssapaixao9@gmail.com** or **larissa@compactjr.com**
 
 - ⚡ Fun fact **I am passionate about Thriller, suspense and aerospace technology**
 
