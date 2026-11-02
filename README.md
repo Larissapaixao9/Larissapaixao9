@@ -2,21 +2,21 @@
 <h1 align="center">Hi 👋, I'm Larissa Paixão</h1>
 <a href="https://wakatime.com/@e9257f7b-904e-4f94-86d1-1534e90fbdb9"><img src="https://wakatime.com/badge/user/e9257f7b-904e-4f94-86d1-1534e90fbdb9.svg" alt="Total time coded since Mar 23 2022" /></a>
 
-<h3 align="center">Full stack and Aerospace student</h3>
+<h3 align="center">Aerospace Engineer | Master's Student in Computer Science</h3>
 
-- 🔭 I’m currently working on **Typescript, node js and React js**
+- 🔭 I’m currently working on **Machine Learning and Python**
 
 - 🌱 I’m currently learning **AWS, CI/CD and docker**
 
 - 👯 I’m looking to collaborate on **React and node js**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Larissapaixao9?tab=repositories](https://github.com/Larissapaixao9?tab=repositories)
 
 - 💬 Ask me about **react, nodejs and javascript**
 
-- 📫 How to reach me **laryssapaixao9@gmail.com** or **larissa@compactjr.com**
+- 📫 How to reach me **laryssapaixao9@gmail.com** 
 
 - ⚡ Fun fact **I am passionate about Thriller, suspense and aerospace technology**
 
